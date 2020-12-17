@@ -4,18 +4,18 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 ഒന്നിലധികം അഡ്‌മിൻ സവിശേഷതകളുള്ള ഒരു ലളിതമായ ഗ്രൂപ്പ് മാനേജുമെന്റ് ബോട്ട്, ഇത് വികസിച്ചു, വളരെ മോഡുലാർ ആയിത്തീർന്നു. ഉപയോഗിക്കാൻ ലളിതമാണ്.
 
-എന്റെ ന്യൂ ഫീച്ചേർസ് [ചാനലിൽ](t.me/MarieChechi) ഇടുന്നതായിരിക്കും. സംശയങ്ങൾക്ക് @InFoTelGroup എന്ന ഗ്രൂപ്പിൽ വരാവുന്നതാണ്.....
+എന്റെ ന്യൂ ഫീച്ചേർസ് [ചാനലിൽ](t.me/swalihpookkotturtgbots) ഇടുന്നതായിരിക്കും. സംശയങ്ങൾക്ക് @InFoTelGroup എന്ന ഗ്രൂപ്പിൽ വരാവുന്നതാണ്.....
 
-എന്നെ ടെലെഗ്രാമിൽ കാണാൻ സാധിക്കും [മേരി ചേച്ചി 2.0](https://t.me/MarieChechiBot).
+എന്നെ ടെലെഗ്രാമിൽ കാണാൻ സാധിക്കും [Admin panel](https://t.me/Groupmanager_tg_680_bot)
 
-Marie and I are moderating a [support group](https://t.me/MarieSupport), where you can ask for help setting up your
+Marie and I are moderating a [support group](https://t.me/swalihpookkotturtggroup), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
-Join the [news channel](https://t.me/MarieNews) if you just want to stay in the loop about new features or
+subscribe the [YouTube channel](https://youtube.com/channel/UCS1Rip3eClWFdNOATGzaNtQ) if you just want to stay in the loop about new features or
 announcements.
 
-Alternatively, [find me on telegram](https://t.me/SonOfLars)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/swalihpookkottur)! (Keep all support questions in the support chat, where more people can help you.)
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
@@ -50,8 +50,8 @@ from tg_bot.sample_config import Config
 
 
 class Development(Config):
-    OWNER_ID = 254318997  # my telegram ID
-    OWNER_USERNAME = "SonOfLars"  # my telegram username
+    OWNER_ID = 1305838439 # my telegram ID
+    OWNER_USERNAME = "swalihpookkottur"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
